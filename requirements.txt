@@ -3,3 +3,4 @@ ipyvolume
 xlrd
 ase==3.21.1
 qml
+dscribe
